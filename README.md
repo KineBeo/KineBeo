@@ -1,6 +1,8 @@
+<h1 align="left">Hi 👋, I'm Pham Trung Kien</h1>
+<h3 align="left>A passionate frontend/backend developer from Vietnam</h3>
 
 # 💫 About Me:
-🔭 I’m currently studying at UET university<br>🌱 I’m currently learning Machine Learning & Neural Networks<br>⚡ Fun fact I love calisthenics 
+🔭 I’m currently studying at University of Engineering and Technology<br>🌱 I’m currently learning Machine Learning & Neural Networks<br>⚡ Fun fact I love calisthenics 
 
 
 ## 🌐 Socials:
