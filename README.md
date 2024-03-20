@@ -16,6 +16,9 @@ Fun fact: I'm a big calisthenics enthusiast!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kinebeo&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kienbeovl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Kienbeovl) 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
