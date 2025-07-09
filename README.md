@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pham Trung Kien</h1>
 
 # 💫 About Me: ![68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966](https://github.com/user-attachments/assets/05d6f175-4b9c-469f-829b-add941f63c90)
-👩🏻‍🎓 Studying Computer Science at the University of Engineering and Technology, Viet Nam<br>👨🏻‍💻 Currently working on NCSC (National Cyber Security Center)<br>🐳 Currently learning about architecture design!
+👩🏻‍🎓 Studying Computer Science at the University of Engineering and Technology, Viet Nam<br>👨🏻‍💻 Currently working on JITS Innovation Labs<br>🐳 Currently learning about architecture design!
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6f734386-25bd-4705-b929-55da7d3c923c)
 
